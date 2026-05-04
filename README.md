@@ -1,5 +1,4 @@
 # Hedge Fund Time Series Forecasting
-**Author:** Likhitha Sindhu Geddam
 
 ---
 
